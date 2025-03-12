@@ -1,4 +1,4 @@
-﻿# Vosaio AI Travel API - Husam
+# Vosaio AI Travel API - Husam
 
 This project is an AI-powered travel itinerary API built with .NET Core. It integrates the OpenAI API (GPT-based itinerary generation) into a B2B travel platform to generate detailed travel itineraries based on user preferences.
 

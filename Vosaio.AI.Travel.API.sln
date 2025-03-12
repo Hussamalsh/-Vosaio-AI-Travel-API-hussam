@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vosaio.AI.Travel.API", "Vosaio.AI.Travel.API\Vosaio.AI.Travel.API.csproj", "{474001B2-5198-4DB5-A96E-7E4EFFF029AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vosaio.AI.Travel.API.Tests", "Vosaio.AI.Travel.API.Tests\Vosaio.AI.Travel.API.Tests.csproj", "{BA8BB416-3047-4C0D-8F1A-8C4C621B9921}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutionItems", "solutionItems", "{C699FD34-8047-4CFA-9984-258538D79EED}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		FollowUp_Answers.md = FollowUp_Answers.md
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474001B2-5198-4DB5-A96E-7E4EFFF029AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474001B2-5198-4DB5-A96E-7E4EFFF029AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474001B2-5198-4DB5-A96E-7E4EFFF029AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474001B2-5198-4DB5-A96E-7E4EFFF029AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA8BB416-3047-4C0D-8F1A-8C4C621B9921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8BB416-3047-4C0D-8F1A-8C4C621B9921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8BB416-3047-4C0D-8F1A-8C4C621B9921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8BB416-3047-4C0D-8F1A-8C4C621B9921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
